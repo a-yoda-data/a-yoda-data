@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoda-the-data-coder
+- 👋 Hi, I’m Tony
 - 👀 I’m interested in ... data engineering
 - 🌱 I’m currently learning ... Databricks
 - 💞️ I’m looking to collaborate on ... work at Qrious
